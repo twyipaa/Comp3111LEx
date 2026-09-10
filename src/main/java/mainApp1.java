@@ -9,6 +9,7 @@ public class mainApp1 {
         int n = 11;
         System.out.println("Program - Starting...");
         System.out.println("Welcome to Software Engineering Lab1");
+        System.out.println("hi");
 
         System.out.println(b + " to power " + n + " = "
                 + myLibrary.Power(b, n));
